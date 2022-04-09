@@ -1,0 +1,2 @@
+python3 bittorent.py .torrent_file file_name(for downloading)
+
